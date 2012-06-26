@@ -1,0 +1,5 @@
+A basic Plugin for Coda2 to add JSHint support
+
+This plugin merely runs JSHint on save. It does not currently support configuration, but that will be added in the future.
+
+Some code is borrowed/adapted from the awesome PHP & Web Toolkip plugin by Mario Fischer (http://www.chipwreck.de/blog/software/coda-php/)
